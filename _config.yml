@@ -1,1 +1,14 @@
+title: Omkar bhilare # your name (or website title) here
+logo: "/images/logo.jpeg?raw=true" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  GSoC'21 @BeagleBoard | SHAKTI Labs, RISE Group, IITM  
+  <br>
+  <p align="justify">This summer I'm Working under BeagleBoard.org for GSoC 2021. 
+  My project is BeagleWire Software under guidance of Michael Welling, this site is for the logs of GSoC 2021.</p>
+  <a href="https://summerofcode.withgoogle.com/projects/#4845032915337216">View My GSoC Project</a><br/>
+  <a href="https://elinux.org/BeagleBoard/GSoC/2021_Proposal/OmkarBhilare">View My GSoC Proposal</a> <br/>
+  <a href="https://www.linkedin.com/in/omkar-bhilare-985aa2180/">View My LinkedIn Profile</a> <br/>
+  <a href="https://twitter.com/ombhilare999">View Twitter Profile</a><br/>
+  <a href="https://drive.google.com/file/d/1jKrDNfu1B02DiM1Yz-zjoyhHLkp83iDh/view?usp=sharing">View CV</a><br/>
+
 theme: jekyll-theme-hacker
