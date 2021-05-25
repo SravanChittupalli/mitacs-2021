@@ -5,15 +5,11 @@ date:   2021-05-23 19:37:20 +0530
 categories: jekyll update
 ---
 
-## 23-05-2021
+## 24-05-2021
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Had a short meet with the professor. We discussed about the project in detail. I was then given 3 videos and the task is to segregate ripe, unripe strawberries and flowers and also find the level of ripeness(unripe, partially ripe, almost ripe, fully ripe) of the strawberries. Before starting with the task I had to research a bit and submit my plan of action. I will start coding from tomorrow.
 
-Jekyll requires blog post files to be named according to the following format:
-
-`YEAR-MONTH-DAY-title.MARKUP`
-
-## 23-05-2021
+## 25-05-2021
 
 Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
