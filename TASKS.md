@@ -6,7 +6,7 @@ The task at hand is to get the bounding boxes around 3 objects
 
 
 To find the best method to do the above task, I will be doing a comparative study between 3 methods:  
-- [ ] Basic Image Processing  
+- [*] Basic Image Processing  
 - [ ] YOLO/ YOLO tiny  
 - [ ] U-Net  
 
