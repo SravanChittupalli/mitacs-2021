@@ -26,6 +26,9 @@ Tested the trained YOLO tiny weights on different videos. The results were good.
 
 Made a script to get predictions and these predictions were stored in such a way that the data generated can be used to create a bigger dataset and then trained the model again with bigger and better data for better accuracy. Astonishingly after 6000 epochs the loss of both the models was approximately the same.
 
+Modified the dataset to create a dataset with only 2 classes strawberry and flower. It might be difficult for the model to distingish between ripe and unripe as some strawberries are partially ripe. Also, I had to process the predictions further to get the % of ripeness. So, I thought of clubbing both ripe and unripe strawberry classes. The results were very good. 
+
+Started training the full YOLO model but as time didnot permit on 1000 epochs were done. I will resume training tomorrow from where I left off today.
 <!-- {% highlight ruby %}
 def print_hi(name)
   puts "Hi, #{name}"
