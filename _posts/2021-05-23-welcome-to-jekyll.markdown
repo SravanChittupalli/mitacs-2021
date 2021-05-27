@@ -14,6 +14,18 @@ Had a short meet with the professor. We discussed about the project in detail. I
 Started coding!  
 Explored different color spaces. HSV was the best. Tuned color ranges for segmentation. As HSV doesnot take into consideration the structural composition of the class, there are a lot of misclassifications. Also, lighting condition affect this algorithm a lot. Got 82% accuracy for flower detection and ~52% accuracy for ripe strawberry detection. So, now as the baseline accuracy is set I can move on to the second method.  
 
+## 26-05-2021
+
+Most of my day went into setting up Darknet and then annotating 86 images. Plan is to train a model partially and then getting predictions and using them to create a new dataset. 
+
+Trained YOLO tiny to check if YOLO is good at classifying flowers, ripe, unripe strawberries. Well, it was working extremely well. 
+
+## 27-05-2021
+
+Tested the trained YOLO tiny weights on different videos. The results were good. 
+
+Made a script to get predictions and these predictions were stored in such a way that the data generated can be used to create a bigger dataset and then trained the model again with bigger and better data for better accuracy. Astonishingly after 6000 epochs the loss of both the models was approximately the same.
+
 <!-- {% highlight ruby %}
 def print_hi(name)
   puts "Hi, #{name}"
