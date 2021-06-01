@@ -1,9 +1,14 @@
 ---
 layout: post
-title:  "Week 1"
-date:   2021-05-23 19:37:20 +0530
+title:  "Week 2"
+date:   2021-06-31 19:37:20 +0530
 categories: jekyll update
 ---
 
 ## 31-05-2021
 
+Had a meeting in the morning. Discussed on the report. Suggestion was to include texture analysis along with color features for classification. HOG + SVM was suggested. After meeting, did a review on HOG. Then created a dataset containing strawberries and background using the YOLO that I have trained. This made creatinfg the dataset easy.
+
+## 01-06-2021
+
+Trained SVM using dataset created yesterday. There are may false positives detected. HOG is not a good feature extracter for this problem statement. Did a bit of research and found that LBPH can be a good feature descriptor. Read a bit on it and implemented it. There are false positives but the best part is that most of the required objects were detected. To remove the false positives I need to add a bit more post-processing. Worked on the Basic_IP and HOG SVM report.
