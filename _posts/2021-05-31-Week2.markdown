@@ -12,3 +12,19 @@ Had a meeting in the morning. Discussed on the report. Suggestion was to include
 ## 01-06-2021
 
 Trained SVM using dataset created yesterday. There are may false positives detected. HOG is not a good feature extracter for this problem statement. Did a bit of research and found that LBPH can be a good feature descriptor. Read a bit on it and implemented it. There are false positives but the best part is that most of the required objects were detected. To remove the false positives I need to add a bit more post-processing. Worked on the Basic_IP and HOG SVM report.
+
+## 02-06-2021
+
+Implemented ROI proposal method for HOG + SVM. Not working. So, implemented sliding window technique. Still getting many false positives. Read articles to remove them but no luck!!
+
+## 03-06-2021
+
+Most of the day went into training the YOLO model. Thought of shifting from laptop to Google Colab for training. Google coloab was giving a lot of problems.The session keeps on expiring. Came back to laptop and started training. 5000 epochs done.
+
+## 04-06-2021
+
+Updated report 1. Included detailed explanation of the algorithm. Added different kinds of metrics to evaluate the model. Added content about HOG + SVM. Kept YOLO for training again. 6000 epochs are done. My laptop fins sound like a fighter jet >_<
+
+## 05-06-2021
+
+Made a presentation that will be presented on next Monday. 
