@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Week 3"
+date:   2021-06-07 19:37:20 +0530
+categories: jekyll update
+---
+
+## 07-06-2021
+
+Spent most of the day preparing for the presentation. Had a 2.5hrs presentation. Discussed in depth about the methods implemented and how to improve them. Also, discussed about the tasks for the upcoming week.
+
+## 08-06-2021
+
+Took 2nd dose of COVID-19 vaccination. No updates related to the project.
+
+## 09-06-2021
+
+Worked on setting up the UBUNTU 20.04 virtual machine. Most of the work was done but later realised that UBUNTU will not be able to access the GPU as it doesnot have control over it because of virtualization. So, suggested the professor to setup UBUNTU by dual booting it with windows. 
+
+Working on a manual to setup the system and run all the codes so that a junior researcher can take up my work and generate statistics that can be used to publish a conference paper.
