@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Week 5"
+date:   2021-06-21 19:37:20 +0530
+categories: jekyll update
+---
+
+- Generated important statistics on 2 videos. One video was with similar conditions to the dataset on which YOLO was trained on. The other video was shot on a different camera and on a field with different cnditions. 
+
+- Generated videos where the number of ripe and unripe strawberries and flowers are counted using SORT tracker and line crossing algorithm.
+
+- Researched on ways to improve the accuracy of them model.
